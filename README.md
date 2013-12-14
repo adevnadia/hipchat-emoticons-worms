@@ -1,6 +1,7 @@
 Hipchat Emoticons: Worms
 ========================
 
+If you love Hipchat and Worms, these emoticons are right for you! All graphics taken from [Worms Knowledge Base](http://worms2d.info/).
 
 | Image                                   | Shortcut    |
 | :-------------------------------------: | ----------- |
