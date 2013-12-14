@@ -20,7 +20,7 @@ If you love Hipchat and Worms, these emoticons are right for you! All graphics t
 | ![napalm](images/napalm.png)            | napalm      |
 | ![prod](images/prod.png)                | prod        |
 | ![rope](images/ninja.png)               | rope        |
-| ![sheep](images/sheep.png)              | shep        |
+| ![sheep](images/sheep.png)              | sheep       |
 | ![sniper](images/sniper.png)            | sniper      |
 | ![supersheep](images/supersheep.png)    | supersheep  |
 | ![surrender](images/surrender.png)      | surrender   |
