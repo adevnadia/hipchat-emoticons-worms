@@ -1,7 +1,7 @@
 Hipchat Emoticons: Worms
 ========================
 
-If you love Hipchat and Worms, these emoticons are right for you! All graphics taken from [Worms Knowledge Base](http://worms2d.info/).
+If you love Hipchat and Worms, these (strictly inofficial!) emoticons are right for you!
 
 | Image                                   | Shortcut    |
 | :-------------------------------------: | ----------- |
@@ -24,3 +24,8 @@ If you love Hipchat and Worms, these emoticons are right for you! All graphics t
 | ![sniper](images/sniper.png)            | sniper      |
 | ![supersheep](images/supersheep.png)    | supersheep  |
 | ![surrender](images/surrender.png)      | surrender   |
+
+Disclaimer
+----------
+
+This collection is not in any way related, supported or endorsed by Team17 and/or Atlassian/Hipchat. It is purely the project of a fan. All graphics taken from [Worms Knowledge Base](http://worms2d.info/).
