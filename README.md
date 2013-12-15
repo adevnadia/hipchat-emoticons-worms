@@ -29,3 +29,7 @@ Disclaimer
 ----------
 
 This collection is not in any way related, supported or endorsed by Team17 and/or Atlassian/Hipchat. It is purely the project of a fan. All graphics taken from [Worms Knowledge Base](http://worms2d.info/).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/obweger/hipchat-emoticons-worms/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
